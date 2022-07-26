@@ -3,3 +3,4 @@ This android application is used to verify the pincode of India through India po
 
 # Mini Project on Pin Code Validator Android Application
 
+[Indian Post Office API ](http://www.postalpincode.in/)
